@@ -1,0 +1,25 @@
+{
+  "id": "com.amoinier.adbcontrol",
+  "version": "1.0.0",
+  "compatibility": "4.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "ADBControl",
+    "fr": "ADBControl"
+  },
+  "description": {
+    "en": "Control your android device by ADB"
+  },
+  "category": [
+    "appliances"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Alex Moinier",
+    "email": "amoinier@outlook.fr"
+  }
+}
